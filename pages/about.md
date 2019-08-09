@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Scouting BSA Troop 42 started in 2019 in Conway Florida as one of the first Troops for Girls in the nation. We meet every Tuesday evening, rain or shine, at [Grace Covenenat Presbyterian](https://grace.to).
+
+Our website theme is [Millenial](https://github.com/lenpaul/Millennial/).
